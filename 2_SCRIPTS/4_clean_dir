@@ -2,12 +2,12 @@
 
 cd ../3_DATA
 
-# Se crean los archivos en R
+# Se borran los archivos generados por el análisis en cada directorio.
 for f in *; do
 	if [ -d $f ];
 	then
 		cd "$f";
-		rm 1_MODELO.pdf analisis.r output.txt;
+		rm 1_MODELOS.pdf analisis.r output.txt;
 		cd ..;
 	fi
 done;
