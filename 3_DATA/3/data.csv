@@ -13,6 +13,7 @@ id,   name,    salary,   start_date,     dept
 11,   Michelle,300.00,   2017-11-15,     IT                                               
 12,   Ryan    ,120.00,   2018-05-11,     HR                                               
 13,   Gary    ,20.25,   2019-03-27,     Finance                                          
-14,   Nina    ,400.00,   2020-05-21,     IT                                               
+14,   Nina    ,400.00,   2020-03-05,     IT                                               
+14,   Nina    ,400.00,   2020-03-04,     IT                                               
 15,   Simon   ,20.80,   2021-07-30,     Operations                                       
 16,   Guru    ,400.50,   2022-06-17,     Finance 

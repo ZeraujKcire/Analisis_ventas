@@ -1,0 +1,18 @@
+
+id,   name,    salary,   start_date,     dept                                             
+1,   Rick    ,179.30,   2012-01-01,     IT                                               
+2,   Dan     ,53.20,   2013-09-23,     Operations                                       
+3,   Michelle,81.00,   2014-11-15,     IT                                               
+4,   Ryan    ,29.00,   2014-05-11,     HR                                               
+5,   Gary    ,10.25,   2015-03-27,     Finance                                          
+6,   Nina    ,100.00,   2013-05-21,     IT                                               
+7,   Simon   ,120.80,   2013-07-30,     Operations                                       
+8,   Guru    ,300.50,   2014-06-17,     Finance 
+9,   Rick    ,10.30,   2015-01-01,     IT                                               
+10,   Dan     ,20.20,   2016-09-23,     Operations                                       
+11,   Michelle,30.00,   2017-11-15,     IT                                               
+12,   Ryan    ,10.00,   2018-05-11,     HR                                               
+13,   Gary    ,140.25,   2019-03-27,     Finance                                          
+14,   Nina    ,410.00,   2020-05-21,     IT                                               
+15,   Simon   ,200.80,   2021-07-30,     Operations                                       
+16,   Guru    ,30.50,   2022-06-17,     Finance 

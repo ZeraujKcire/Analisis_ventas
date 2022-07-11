@@ -1,10 +1,12 @@
 #!/bin/sh
 
+cd ../3_DATA
+
 # Se crean los archivos en R
 for f in *; do
 	if [ -d $f ];
 	then
-		cp analisis.r "$f"/analisis_r.r;
+		cp analisis.r "$f"/analisis.r;
 	fi
 done;
 
@@ -13,7 +15,7 @@ for f in *; do
 	if [ -d $f ];
 	then
 		cd "$f";
-		Rscript analisis_r.r > output.txt;
+		Rscript analisis.r > output.txt;
 		cd ..;
 	fi;
 done;
