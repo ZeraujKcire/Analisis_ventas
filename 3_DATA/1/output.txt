@@ -1,0 +1,15 @@
+[1] " --- REGRESION LINEAL --- "
+  (Intercept)             x 
+-1835.7649334     0.1552785 
+[1] "Error:"
+[1] 553.4104
+[1] " --- REGRESION CUADRATICA --- "
+(Intercept) poly(x, 2)1 poly(x, 2)2 
+   656.8812    152.5179    133.3321 
+[1] "Error:"
+[1] 420.0616
+[1] " --- REGRESION CUBICA --- "
+(Intercept) poly(x, 3)1 poly(x, 3)2 poly(x, 3)3 
+ 656.881250  152.517868  133.332120   -3.053759 
+[1] "Error:"
+[1] 418.1986

@@ -1,0 +1,10 @@
+[1] " --- LIBRERIAS --- "
+[1] " --- LINEAL --- "
+  (Intercept)             x 
+-160.68763698    0.01582989 
+[1] " --- CUADRATICA --- "
+(Intercept) poly(x, 2)1 poly(x, 2)2 
+  107.88125    70.96503   108.76253 
+[1] " --- CUBICA --- "
+(Intercept) poly(x, 3)1 poly(x, 3)2 poly(x, 3)3 
+  107.88125    70.96503   108.76253  -165.07502 
